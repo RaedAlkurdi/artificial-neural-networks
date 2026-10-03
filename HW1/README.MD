@@ -30,13 +30,3 @@ The experiments for four and five input variables can take a while because they 
 
 The perceptron trains for at most 20 passes through the inputs. A failed run means it did not find a solution within those 20 passes; it does not prove that the mapping is mathematically impossible to separate with a perceptron. Random initialization and sampled label sets can also cause results to vary between runs.
 
-## Repository structure
-
-```text
-HW1/
-  HW1.py
-HW2/
-  main.py
-  README.md
-  requirements.txt
-```
