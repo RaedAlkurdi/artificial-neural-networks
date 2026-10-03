@@ -39,6 +39,12 @@ The perceptron trains for at most 20 passes through the inputs. A failed run mea
 ```text
 HW1/
   HW1.py
+HW2/
+  main.py
+  README.md
+  requirements.txt
 ```
 
-I will add later homeworks in separate folders with short descriptions of their goals and results.
+## HW2: Two hidden layers and stochastic gradient descent
+
+[HW2](HW2/README.md) implements a classifier from scratch using NumPy. It uses two hidden layers, backpropagation, and stochastic gradient descent. One completed run achieved 11.30% validation error. See the homework README for data requirements and running instructions.

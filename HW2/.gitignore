@@ -1,0 +1,21 @@
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Course datasets and generated model parameters
+training_set.csv
+validation_set.csv
+w1.csv
+w2.csv
+w3.csv
+t1.csv
+t2.csv
+t3.csv
