@@ -19,4 +19,4 @@ python main.py
 
 The script prints validation error each epoch and saves the best weights and thresholds in six CSV files.
 
-Based on the course material and Bernhard Mehlig's *Machine Learning with Neural Networks* (2022). I used AI assistance for learning, debugging, editing, and documentation.
+Based on the course material and Bernhard Mehlig's *Machine Learning with Neural Networks* (2022). 
