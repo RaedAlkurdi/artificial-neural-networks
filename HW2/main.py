@@ -1,4 +1,3 @@
-# Developed with AI-assisted tutoring, debugging, and editing.
 #Implemented using Algorithm 4 on p.101 in "Machine Learning with Neural Networks" 2022 by Bernhard Mehlig.
 
 from pathlib import Path
